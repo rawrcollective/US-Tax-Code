@@ -3,7 +3,7 @@ Centralizing the US Tax Code (focus on personal and income tax code)
 
 Call to other fellow developers to start building and adding all the tax code documents into one centralized resource to help understand and develop a better way of understanding the US Tax Code. Once the US Tax Code is built out, we will tackle the state codes (starting with California) and work to build something better for everyone. 
 
-If enough data is collected and a team if forming, this is liking grow into something larger. Let's help people save money and understand why we are taxed as we are.
+If enough data is collected and a team is forming, this is liking grow into something larger. Let's help people save money and understand why we are taxed as we are.
 
 In response to Plaid's call to startups to tackle certain issues. We want to tackle the issue of tax code.
 
